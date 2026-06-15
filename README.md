@@ -1,5 +1,4 @@
-# financial-sales-analysis-practice
- practice sales analysis using MySQL and Power BI
+# Practice sales analysis using MySQL and Power BI
 
 # Project Overview
 This project focused on an analysis of a company's financial performance and sales data. The dataset contained logical inconsistencies regarding the total sales revenue, which I successfully identified and resolved during the data-cleaning stage. The goal of this analysis was to uncover key business insights regarding profitability, product category performance and regional sales distribution
